@@ -137,3 +137,6 @@ dist
 
 # Node
 node_modules
+
+# Test 
+coverage
