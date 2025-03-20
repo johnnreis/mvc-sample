@@ -1,0 +1,19 @@
+{
+  "name": "mvc-sample",
+  "version": "1.0.0",
+  "description": "a sample mvc app",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnnreis/mvc-sample.git"
+  },
+  "author": "Johnn Reis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnnreis/mvc-sample/issues"
+  },
+  "homepage": "https://github.com/johnnreis/mvc-sample#readme"
+}
